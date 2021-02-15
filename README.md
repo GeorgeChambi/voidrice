@@ -1,7 +1,6 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# The Voidrice (George Chambi <https://chambi.uk>'s dotfiles)
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
-[my YouTube channel](https://youtube.com/c/lukesmithxyz).
+These are the dotfiles deployed by [SAAR](https://github.com/GeorgeChambi/SAAR) which is a fork of [LARBS](https://larbs.xyz)
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -24,11 +23,10 @@ These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on
 
 ## Usage
 
-These dotfiles are intended to go with numerous suckless programs I use:
+These dotfiles are intended to go with the suckless programs I use:
 
-- [dwm](https://github.com/lukesmithxyz/dwm) (window manager)
-- [dwmblocks](https://github.com/lukesmithxyz/dwmblocks) (statusbar)
-- [st](https://github.com/lukesmithxyz/st) (terminal emulator)
+- [dwm](https://github.com/GeorgeChambi/dwm) (window manager)
+- [st](https://github.com/GeorgeChambi/st) (terminal emulator)
 
 I also recommend trying out
 [mutt-wizard](https://github.com/lukesmithxyz/mutt-wizard), which additionally
@@ -38,10 +36,10 @@ as well.
 
 ## Install these dotfiles and all dependencies
 
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
+Use [SAAR](https://github.com/GeorgeChambi/SAAR) to autoinstall everything:
 
 ```
-curl -LO larbs.xyz/larbs.sh
+curl -LO chambi.uk/saar.uk
 ```
 
 or clone the repo files directly to your home directory and install the
