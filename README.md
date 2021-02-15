@@ -39,7 +39,7 @@ as well.
 Use [SAAR](https://github.com/GeorgeChambi/SAAR) to autoinstall everything:
 
 ```
-curl -LO chambi.uk/saar.uk
+curl -LO chambi.uk/saar.sh
 ```
 
 or clone the repo files directly to your home directory and install the
